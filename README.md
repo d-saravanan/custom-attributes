@@ -1,5 +1,7 @@
 # Attribute based logic implementation for Business Models
 
+## <img src="https://ci.appveyor.com/api/projects/status/7jm59x8eivnyn39v?svg=true" alt="Build Status"></a>
+
 This application demonstrates the automated processing of the attributes with the business logic. The models are decorated with the attributes and the functionality is implemented by the attributes, facilitating the clear separation of concerns and the ease of use
 
 **Example**
