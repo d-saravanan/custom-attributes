@@ -1,0 +1,18 @@
+﻿//public interface IDataProtector
+    //{
+    //    string Protect(string input);
+    //    string UnProtect(string input);
+    //}
+
+    //public class DummyProtector : IDataProtector
+    //{
+    //    public string Protect(string input)
+    //    {
+    //        return input + "x";
+    //    }
+
+    //    public string UnProtect(string input)
+    //    {
+    //        return input.TrimEnd('x');
+    //    }
+    //}
